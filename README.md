@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/isadoralicastro">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=isadoralicastro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoralicastro&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=isadoralicastro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadoralicastro&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isa-HTML" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isa-CSS" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
